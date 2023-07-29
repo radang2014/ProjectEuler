@@ -6,7 +6,7 @@ For solutions with a C++ source, compile the `.cpp` file containing code for a s
 * `./problemX`
 
 For solutions with a Java source, from the directory containing the Java source, compile and run with:
-* javac *.java
-* java Main
+* `javac *.java`
+* `java Main`
 
 
